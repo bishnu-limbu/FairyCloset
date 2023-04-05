@@ -7,10 +7,6 @@ function ProfileCard(Props){
         <img src={Props.image}></img> <br/>
        {Props.name}<br/>
        {Props.email}
-       
-       
-        
-
         </div>
 
     )
